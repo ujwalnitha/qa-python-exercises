@@ -1,0 +1,6 @@
+,label,responseCode,responseMessage,failureMessage,timeStamp
+4,Direct_test_Services_QuoteRequest,504,Gateway Time-out,,2021-02-09 06:01:23.699000-08:00
+5,Internal_Quote_Travel,504,Gateway Timeout,,2021-02-09 06:01:23.753000-08:00
+6,Proxy_test_Services_QuoteRequest,504,Gateway Timeout,,2021-02-09 06:01:30.306000-08:00
+24,Proxy_test_Services_QuoteRequest,504,Gateway Timeout,,2021-02-09 06:02:55.436000-08:00
+25,Internal_Quote_Travel,504,Gateway Timeout,,2021-02-09 06:03:04.096000-08:00

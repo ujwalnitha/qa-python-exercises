@@ -24,7 +24,7 @@ def remove_element(element_key: str):
         if type(element_key) != str:
             raise ValueError('Value error: Input is not a string')
     except ValueError as e:
-        print(e.args[0])
+        print(e.args[1])
         return
 
     # Load JSON to dictionary
